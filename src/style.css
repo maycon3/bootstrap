@@ -12,3 +12,17 @@
     font-family: 'Pacifico', cursive;
     color: darkred;
 }
+
+.borda-cor-especial {
+    border-color:  darkred;
+    width: 18rem;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.botao-cor-especial:hover {
+    color: white;
+}
