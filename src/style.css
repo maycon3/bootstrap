@@ -15,7 +15,7 @@
 
 .borda-cor-especial {
     border-color:  darkred;
-    width: 18rem;
+    max-width: 18rem;
 }
 
 .botao-cor-especial {
@@ -25,4 +25,9 @@
 
 .botao-cor-especial:hover {
     color: white;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
 }
