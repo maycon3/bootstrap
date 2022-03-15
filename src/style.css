@@ -10,7 +10,7 @@
 
 .info-titulo {
     font-family: 'Pacifico', cursive;
-    color: darkred;
+    color: darkred!important;
 }
 
 .borda-cor-especial {
